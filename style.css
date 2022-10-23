@@ -1,0 +1,32 @@
+body{
+    padding: 100px;
+}
+.loginArya{
+    margin: 20px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+}
+.Deposits{
+    background-color: blue;
+}
+.Withdraw{
+    background-color: darkkhaki;
+}
+.balance{
+    background-color: chartreuse;
+}
+
+.Deposit{
+    margin:0 20px;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+   
+}
+.margens-loginArya{
+    margin-bottom: 55px;
+}
+#GlobalBank{
+    display: none;
+}
